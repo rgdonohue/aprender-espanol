@@ -4,7 +4,7 @@
 
 ## preposicions comunes
 
-|   español    |        english        |
+| español      | english               |
 | ------------ | --------------------- |
 | a            | to act                |
 | acerca de    | about, relating to    |
@@ -43,3 +43,59 @@
 | sobre        | over, above           |
 | trás         | after                 |
 
+## indirect object pronouns
+
+| singular | plural |
+| -------- | ------ |
+| me       | nos    |
+| te       | os     |
+| le       | les    |
+
+Ejemplo: Yo veo a Maria. Yo la veo.
+
+## direct object pronouns
+
+| --- |
+| --- |
+| lo  |
+| los |
+| la  |
+| las |
+
+Ejemplo: Compro las flores. Las compro.
+
+## pronombres posesivos
+
+| español              | english |
+| -------------------- | ------- |
+| mio, mi              | my      |
+| tuyo = suyo, tú = su | your    |
+| de él                | his     |
+| de ella              | her     |
+| nuestro              | our     |
+| de ellos             | their   |
+
+## verbos irregulares
+
+| infinitive | presente | pretérito | imperfecto | futura | condicional |
+| ---------- | -------- | --------- | ---------- | ------ | ----------- |
+| estar      | estoy    | estuve    | --         | --     | --          |
+| caber      | quepo    | cupe      | --         | cabré  | cabría      |
+| decir      | digo     | dije      | --         | diré   | diría       |
+| hacer      | hago     | hice      | --         | haré   | haría       |
+| poder      | pudeo    | pude      | --         | podré  | podría      |
+| querer     | quiero   | quise     | --         | querré | querría     |
+| saber      | sé       | supe      | --         | sabré  | sabría      |
+| salir      | salgo    | --        | --         | saldré | saldría     |
+| tener      | tengo    | tuve      | --         | tendré | tendría     |
+| valer      | valgo    | --        | --         | valdré | valdría     |
+| venir      | vengo    | vine      | --         | vendré | vendría     |
+| producir   | produzco | produje   | _--        | --     | --          |
+| ser        | soy      | fui       | era        | --     | --          |
+| ir         | voy      | fui       | iba        | --     | --          |
+| ver        | veo      | vi        | veía       | --     | --          |
+| traer      | traigo   | traje     | --         | --     | --          |
+| dar        | doy      | dí        | --         | daré   | daría       |
+| oir        | oigo     | oí        | --         | --     | --          |
+| haber      | he       | hube      | --         | habré  | habría      |
+| poner      | pongo    | puse      | --         | pondré | pondría     |
