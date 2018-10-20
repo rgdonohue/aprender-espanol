@@ -1,6 +1,6 @@
 # aprender español
 
-
+Mis notas para aprender Español.
 
 ## preposicions comunes
 
@@ -99,3 +99,112 @@ Ejemplo: Compro las flores. Las compro.
 | oir        | oigo     | oí        | --         | --     | --          |
 | haber      | he       | hube      | --         | habré  | habría      |
 | poner      | pongo    | puse      | --         | pondré | pondría     |
+
+## verbos como gustar
+
+| verbo                        | meaning                                  |
+| ---------------------------- | ---------------------------------------- |
+| agradar                      | to be pleasing                           |
+| bastar                       | to be enough                             |
+| doler                        | to pain, ache, cause grief, cause regret |
+| faltar                       | to need, miss, lack                      |
+| hacer falta                  | to be necessary                          |
+| parecer                      | to seem, to appear                       |
+| placer                       | to be pleasing, gratify, humor           |
+| quedarle                     | to have left                             |
+| encantar                     | to charm                                 |
+| sobrar                       | to be left                               |
+| tocarle (a uno) + infinitivo | to be one's turn                         |
+| apetecer                     | to crave                                 |
+| convenir                     | to agree, to convince                    |
+
+### sólo los objectos indirectos
+
+| singular | plural |
+| -------- | ------ |
+| me       | nos    |
+| te       | os     |
+| le       | les    |
+
+### sólo se usan las terminaciones de la 3rd persona singular y plural en todos los tiempos
+
+
+| presente | pretérito | imperfecto |
+| -------- | --------- | ---------- |
+| gusta    | gustó     | gustaba    |
+| gustan   | gustaron  | gustaban   |
+
+| singlar  | plural    |
+| -------- | --------- |
+| me gusta | nos gusta |
+| te gusta | os gusta  |
+| le gusta | les gusta |
+
+| singlar   | plural     |
+| --------- | ---------- |
+| me gustan | nos gustan |
+| te gustan | os gustan  |
+| le gustan | les gustan |
+
+## verbos reflexivos
+
+* debe usarse:
+
+  | singular | plural |
+  | -------- | ------ |
+  | me       | nos    |
+  | te       | os     |
+  | se       | se     |
+
+  **nota:** la mayoría de los verbos tienen (se) al verbo
+
+    Ejemplo: lavar(se), bañar(se), peinar(se)
+
+* Forma reflexiva:
+
+    Ejemplo: Me baño todas las mañanas. Contra yo baño al niño (no es reflexiva).
+
+## voz pasiva
+
+* Aqui se habla Español. Spanish is spoken here.
+* Esto libros se venderán a un precio bajo. These books will be sold at a low price.
+
+## verbos que se usan con el infinitivo reflexivo
+
+| Español        | Ingles              |
+| -------------- | ------------------- |
+| deber          | ought to, must      |
+| dejar de       | to allow or to stop |
+| desear         | to wish or desire   |
+| esperar        | to hope or expect   |
+| lograr         | to succeed in       |
+| necesitar      | to need             |
+| pensar (+ inf) | to intend           |
+| poder          | to be able to, can  |
+| preferir       | to prefer           |
+| pretender      | to attempt          |
+| querer         | to want, wish       |
+| saber          | to know             |
+| soler          | to be accustomed to |
+
+## verbos especiales
+
+| Español         | Ingles                              |
+| --------------- | ----------------------------------- |
+| acodarse        | to remember                         |
+| apoderar(se)    | to take possession                  |
+| apresurarse a   | to hurry                            |
+| aprovecharse de | to avail oneself, take advantage of |
+| atreverse a     | to dare                             |
+| desayunarse     | to have breakfast                   |
+| desmayarse      | to faint                            |
+| empeñarse en    | to insist on                        |
+| escaparse de    | to escape                           |
+| figurarse       | to imagine, pretend                 |
+| irse            | to go away                          |
+| morirse         | to pass away                        |
+| negarse         | to refuse                           |
+| olvidarse   de  | to stroll                           |
+| pasearse        | to stroll                           |
+| quejarse de     | to complain of                      |
+| tratarse de     | to concern                          |
