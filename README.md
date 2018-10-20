@@ -1,6 +1,21 @@
-# aprender español
+# aprender español <!-- omit in toc -->
 
 Mis notas para aprender Español.
+
+## TOC <!-- omit in toc -->
+
+- [preposicions comunes](#preposicions-comunes)
+- [indirect object pronouns](#indirect-object-pronouns)
+- [direct object pronouns](#direct-object-pronouns)
+- [pronombres posesivos](#pronombres-posesivos)
+- [verbos irregulares](#verbos-irregulares)
+- [verbos como gustar](#verbos-como-gustar)
+  - [sólo los objectos indirectos](#sólo-los-objectos-indirectos)
+  - [sólo se usan las terminaciones de la 3rd persona singular y plural en todos los tiempos](#sólo-se-usan-las-terminaciones-de-la-3rd-persona-singular-y-plural-en-todos-los-tiempos)
+- [verbos reflexivos](#verbos-reflexivos)
+- [voz pasiva](#voz-pasiva)
+- [verbos que se usan con el infinitivo reflexivo](#verbos-que-se-usan-con-el-infinitivo-reflexivo)
+- [verbos especiales](#verbos-especiales)
 
 ## preposicions comunes
 
